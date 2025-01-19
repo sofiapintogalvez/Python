@@ -88,6 +88,7 @@ if p < 70:
         print("No es apto para dar el examen")
 else:
     print("Es apto para dar el examen")
+
 #Ejercicio 6: De la lista, recibe un valor que diga True si el trimestral supero al valor, caso contrario False.
 lista = ["Marzo", 10000, "Enero", 20000, "Febrero", 21000]
 dato = float(input("Ingrese un numero: "))
